@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Ini bagian pengaturan dasar halaman -->
+    <meta charset="UTF-8"> <!-- Set encoding karakter ke UTF-8 -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Biar responsive di HP -->
+    <title>Chat with Ladas</title> <!-- Judul halaman di tab browser -->
+    
+    <!-- Link ke file CSS lokal -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    
+    <!-- Link ke Google Fonts (font Quicksand) -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600&display=swap">
+</head>
+<body>
+    <!-- Ini container buat efek bintang-bintang di background -->
+    <div class="stars-container">
+        <div class="star"></div> <!-- Masing-masing div ini 1 bintang -->
+        <!-- Ada 10 bintang total -->
+    </div>
+    
+    <!-- Container utama chat -->
+    <div class="chat-container">
+        <!-- Header chat -->
+        <div class="chat-header">
+            <!-- Avatar/logo bot -->
+            <div class="avatar">
+                <img src="{{ url_for('static', filename='chillpal-avatar.png') }}" alt="ChillPal" class="avatar-image">
+            </div>
+            <h1>Ladas</h1> <!-- Nama bot -->
+
+            <!-- Toggle buat ganti tema terang/gelap -->
+            <div class="theme-toggle-wrapper">
+                <label class="theme-toggle" for="theme-switch">
+                    <input type="checkbox" id="theme-switch"> <!-- Checkbox sebagai switch -->
+                    <div class="toggle-track">
+                        <!-- Ikon matahari (buat tema terang) -->
+                        <div class="sun-icon">
+                            <!-- SVG ikon matahari -->
+                        </div>
+                        <!-- Ikon bulan (buat tema gelap) -->
+                        <div class="moon-icon">
+                            <!-- SVG ikon bulan -->
+                        </div>
+                    </div>
+                </label>
+            </div>
+        </div>
+        
+        <!-- Tempat munculnya chat -->
+        <div id="chat-box">
+            <!-- Pesan sambutan awal dari bot -->
+            <div class="welcome-message">
+                <div class="bot-message">
+                    <!-- Avatar bot di dalam chat -->
+                    <div class="message-avatar">
+                        <img src="{{ url_for('static', filename='chillpal-avatar.png') }}" alt="ChillPal" class="avatar-image">
+                    </div>
+                    <!-- Bubble chat pesan bot -->
+                    <div class="message-bubble">
+                        <p>Halo! Aku Ladas, Virtual Assistant Waroeng Ladas. Mau nanya apa nihh tentang waroeng ladas?</p>
+                    </div>
+                </div>
+            </div>
+            <!-- Nanti chat lain akan ditambahkan di sini lewat JavaScript -->
+        </div>
+        
+        <!-- Input user -->
+        <div class="input-container">
+            <input type="text" id="user-input" placeholder="Ketik pesan kamu di sini..." />
+            <button id="send-btn">
+                <!-- Ikon kirim (SVG gambar panah) -->
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" 
+                viewBox="0 0 24 24" fill="none" stroke="currentColor" 
+                stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <line x1="22" y1="2" x2="11" y2="13"></line>
+                    <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+                </svg>
+            </button>
+        </div>
+    </div>
+
+    <!-- Link ke file JavaScript lokal -->
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
