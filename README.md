@@ -36,7 +36,7 @@ Banyak mantan narapidana menghadapi hambatan serius untuk kembali bekerja karena
 Tanpa intervensi yang tepat, kondisi ini berpotensi mendorong mantan narapidana kembali ke lingkaran kriminal.
 
 ⸻
-https://drive.google.com/drive/folders/135n1p7rJL1D95SVfoDoCnZrl0re0Ogb7?usp=sharing
+
 **💡 Solusi Utama ExCellera**
 
 <br>
