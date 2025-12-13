@@ -164,3 +164,46 @@ Catatan Penting
 	•	AI tidak memiliki kewenangan mengambil keputusan kelulusan
 
 ExCellera bukan sekadar aplikasi, melainkan sistem reintegrasi kerja berbasis struktur, kepercayaan, dan kesempatan kedua.
+
+⸻
+
+Team Introduction
+
+<div align="center">
+  <h2>Meet the Team</h2>
+  <p>The people behind Excellera</p>
+</div>
+
+<br />
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://via.placeholder.com/180" width="180" height="180" style="border-radius: 50%;" /><br />
+        <b>Member Name</b><br />
+        <i>Role</i>
+      </td>
+      <td align="center">
+        <img src="https://via.placeholder.com/180" width="180" height="180" style="border-radius: 50%;" /><br />
+        <b>Member Name</b><br />
+        <i>Role</i>
+      </td>
+      <td align="center">
+        <img src="https://via.placeholder.com/180" width="180" height="180" style="border-radius: 50%;" /><br />
+        <b>Member Name</b><br />
+        <i>Role</i>
+      </td>
+      <td align="center">
+        <img src="https://via.placeholder.com/180" width="180" height="180" style="border-radius: 50%;" /><br />
+        <b>Member Name</b><br />
+        <i>Role</i>
+      </td>
+      <td align="center">
+        <img src="https://via.placeholder.com/180" width="180" height="180" style="border-radius: 50%;" /><br />
+        <b>Member Name</b><br />
+        <i>Role</i>
+      </td>
+    </tr>
+  </table>
+</div>
