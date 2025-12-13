@@ -1,16 +1,12 @@
 <br>
 <div align="center">
-    <div>
-        <img height="150px" src="https://placehold.co/300x300?text=ExCellera" alt="ExCellera Logo"/>
-    </div>
-    <div>
-            <h3><b>ExCellera</b></h3>
-            <p><i>Platform Reintegrasi Kerja Berbasis Teknologi</i></p>
-    </div>      
+  <img
+    src="https://drive.google.com/uc?export=view&id=12JM6t5lKPQNRP5mQeF08IKb_eFySzbg-"
+    alt="ExCellera Banner"
+    style="width:100%; max-width:1400px;"
+  />
 </div>
 <br>
-<h1 align="center">ExCellera</h1>
-
 
 ExCellera: Structured Workforce Reintegration Platform
 
