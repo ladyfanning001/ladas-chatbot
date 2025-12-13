@@ -45,12 +45,15 @@ https://drive.google.com/drive/folders/135n1p7rJL1D95SVfoDoCnZrl0re0Ogb7?usp=sha
 
 <br>
 <div align="center">
-    <div>
-        <img height="150px" src="[https://placehold.co/300x300?text=ExCellera](https://drive.google.com/drive/folders/135n1p7rJL1D95SVfoDoCnZrl0re0Ogb7?usp=sharing)" alt="ExCellera Logo"/>
-    </div> 
+  <div>
+    <img 
+      height="150px" 
+      src="https://drive.google.com/uc?export=view&id=1rCeUhylm0YqWh5TbP27DzFS39Ul0TKwE"
+      alt="ExCellera Logo"
+    />
+  </div>
 </div>
 <br>
-
 ⸻
 **
 🔄 Alur Sistem ExCellera**
