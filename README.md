@@ -22,7 +22,7 @@ Sebagai pendamping utama, ExCellera dilengkapi dengan CELLA AI, asisten berbasis
 
 ⸻
 
-Problem Statement
+**Problem Statement**
 
 <blockquote align='center'>
 <h3>
@@ -41,7 +41,7 @@ Tanpa intervensi yang tepat, kondisi ini berpotensi mendorong mantan narapidana 
 
 ⸻
 
-💡 Solusi Utama ExCellera
+**💡 Solusi Utama ExCellera**
 
 1. Assessment Awal & Personalisasi Jalur Kerja
 
@@ -69,8 +69,8 @@ Training dilakukan langsung di mitra (UMKM / Non-UMKM) dengan evaluasi berkala. 
 User hanya dapat melamar pekerjaan setelah memiliki sertifikat “Siap Kerja”. Proses job matching dilakukan berdasarkan bidang kerja, performa training, dan hasil evaluasi mitra, bukan riwayat kriminal.
 
 ⸻
-
-🔄 Alur Sistem ExCellera
+**
+🔄 Alur Sistem ExCellera**
 
 Onboarding Lapas
       ↓
@@ -89,7 +89,7 @@ Job Seeking / Job Matching
 
 ⸻
 
-🎯 Kontribusi terhadap SDGs
+**🎯 Kontribusi terhadap SDGs**
 
 SDG 8 – Pekerjaan Layak dan Pertumbuhan Ekonomi
 
@@ -105,7 +105,7 @@ Menekan residivisme melalui sistem reintegrasi yang terstruktur dan berbasis dat
 
 ⸻
 
-👨🏻‍💻 Technology Stack
+**👨🏻‍💻 Technology Stack**
 
 <div align="center">
 
@@ -146,7 +146,7 @@ Menekan residivisme melalui sistem reintegrasi yang terstruktur dan berbasis dat
 
 ⸻
 
-🧠 Arsitektur AI – CELLA (RAG)
+**🧠 Arsitektur AI – CELLA (RAG)**
 
 CELLA AI menggunakan pendekatan Retrieval-Augmented Generation (RAG) dengan alur:
 	1.	Query dari user
@@ -167,7 +167,7 @@ ExCellera bukan sekadar aplikasi, melainkan sistem reintegrasi kerja berbasis st
 
 ⸻
 
-Team Introduction
+**Team Introduction**
 
 <div align="center">
   <h2>Meet the Team</h2>
