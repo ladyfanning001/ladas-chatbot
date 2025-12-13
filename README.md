@@ -34,7 +34,7 @@ Tanpa intervensi yang tepat, kondisi ini berpotensi mendorong mantan narapidana 
 ⸻
 
 
-<div align="left">
+<div align="center">
   <h2>🎯 Solusi Utama <h2>
 </div>
 	  
@@ -50,7 +50,7 @@ Tanpa intervensi yang tepat, kondisi ini berpotensi mendorong mantan narapidana 
 <br>
 ⸻
 
-<div align="left">
+<div align="center">
   <h2> 🔄 Flow Sistem ExCellera <h2>
 </div>
 	  
@@ -63,7 +63,7 @@ flowchart TD
     F --> G[Job Seeking / Job Matching]
 
 ⸻
-<div align="left">
+<div align="center">
   <h2>🎯 Kontribusi terhadap SDGs <h2>
 </div>
 
@@ -81,7 +81,7 @@ SDG 16 – Perdamaian, Keadilan, dan Institusi yang Tangguh
 Menekan residivisme melalui sistem reintegrasi yang terstruktur dan berbasis data.
 
 ⸻
-<div align="left">
+<div align="center">
   <h2>👨🏻‍💻 Technology Stack <h2>
 </div>
 
@@ -154,65 +154,63 @@ ExCellera bukan sekadar aplikasi, melainkan sistem reintegrasi kerja berbasis st
 
 <br />
 
-<div align="center">
-  <table>
-    <!-- ROW 1 -->
-    <tr>
-      <td align="center">
-        <img 
-          src="https://drive.google.com/uc?export=view&id=17JzgCaF45gCTXnlIglXVKpq05sTQq5Vx"
-          width="160" height="160"
-          style="border-radius:50%; object-fit:cover;"
-        /><br />
-        <b>Muhammad Aris Maulana</b><br />
-        <i>Project Manager</i>
-      </td>
+<table align="center">
+  <!-- ROW 1 -->
+  <tr>
+    <td align="center">
+      <img 
+        src="https://drive.google.com/uc?export=view&id=17JzgCaF45gCTXnlIglXVKpq05sTQq5Vx"
+        width="160" height="160"
+        style="border-radius:50%; object-fit:cover;"
+      /><br />
+      <b>Muhammad Aris Maulana</b><br />
+      <i>Project Manager</i>
+    </td>
 
-      <td align="center">
-        <img 
-          src="https://drive.google.com/uc?export=view&id=17JzgCaF45gCTXnlIglXVKpq05sTQq5Vx"
-          width="160" height="160"
-          style="border-radius:50%; object-fit:cover;"
-        /><br />
-        <b>Nazla Azzahra Hermana</b><br />
-        <i>UI/UX Designer</i>
-      </td>
+    <td align="center">
+      <img 
+        src="https://drive.google.com/uc?export=view&id=17JzgCaF45gCTXnlIglXVKpq05sTQq5Vx"
+        width="160" height="160"
+        style="border-radius:50%; object-fit:cover;"
+      /><br />
+      <b>Nazla Azzahra Hermana</b><br />
+      <i>UI/UX Designer</i>
+    </td>
 
-      <td align="center">
-        <img 
-          src="https://drive.google.com/uc?export=view&id=1kbe9CbYZBaLMgQ-PSwiz179-lZVjKZ9v"
-          width="160" height="160"
-          style="border-radius:50%; object-fit:cover;"
-        /><br />
-        <b>Ladya Kalascha</b><br />
-        <i>AI Engineer</i>
-      </td>
-    </tr>
+    <td align="center">
+      <img 
+        src="https://drive.google.com/uc?export=view&id=1kbe9CbYZBaLMgQ-PSwiz179-lZVjKZ9v"
+        width="160" height="160"
+        style="border-radius:50%; object-fit:cover;"
+      /><br />
+      <b>Ladya Kalascha</b><br />
+      <i>AI Engineer</i>
+    </td>
+  </tr>
 
-    <!-- ROW 2 -->
-    <tr>
-      <td align="center">
-        <img 
-          src="https://drive.google.com/uc?export=view&id=1GLKutpoK_r_ib5QIeCNnWxECZqcdrPdH"
-          width="160" height="160"
-          style="border-radius:50%; object-fit:cover;"
-        /><br />
-        <b>Gaza Al Ghozali Chansa</b><br />
-        <i>Fullstack Developer</i>
-      </td>
+  <!-- ROW 2 -->
+  <tr>
+    <td align="center">
+      <img 
+        src="https://drive.google.com/uc?export=view&id=1GLKutpoK_r_ib5QIeCNnWxECZqcdrPdH"
+        width="160" height="160"
+        style="border-radius:50%; object-fit:cover;"
+      /><br />
+      <b>Gaza Al Ghozali Chansa</b><br />
+      <i>Fullstack Developer</i>
+    </td>
 
-      <td align="center">
-        <img 
-          src="https://drive.google.com/uc?export=view&id=17kTdS034qc7PyLRg2LNkuwjI190aEHeI"
-          width="160" height="160"
-          style="border-radius:50%; object-fit:cover;"
-        /><br />
-        <b>Nicholas Gunawan</b><br />
-        <i>Fullstack Developer</i>
-      </td>
+    <td align="center">
+      <img 
+        src="https://drive.google.com/uc?export=view&id=17kTdS034qc7PyLRg2LNkuwjI190aEHeI"
+        width="160" height="160"
+        style="border-radius:50%; object-fit:cover;"
+      /><br />
+      <b>Nicholas Gunawan</b><br />
+      <i>Fullstack Developer</i>
+    </td>
 
-      <!-- spacer biar rata tengah -->
-      <td></td>
-    </tr>
-  </table>
-</div>
+    <!-- spacer supaya rata tengah -->
+    <td></td>
+  </tr>
+</table>
