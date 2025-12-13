@@ -45,13 +45,11 @@ https://drive.google.com/drive/folders/135n1p7rJL1D95SVfoDoCnZrl0re0Ogb7?usp=sha
 
 <br>
 <div align="center">
-  <div>
-    <img 
-      height="150px" 
-      src="https://drive.google.com/uc?export=view&id=1rCeUhylm0YqWh5TbP27DzFS39Ul0TKwE"
-      alt="ExCellera Logo"
-    />
-  </div>
+  <img 
+    src="https://drive.google.com/uc?export=view&id=1rCeUhylm0YqWh5TbP27DzFS39Ul0TKwE"
+    alt="ExCellera Banner"
+    width="100%"
+  />
 </div>
 <br>
 ⸻
