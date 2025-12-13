@@ -49,23 +49,15 @@ Tanpa intervensi yang tepat, kondisi ini berpotensi mendorong mantan narapidana 
 </div>
 <br>
 ⸻
-**
-🔄 Alur Sistem ExCellera**
+**🔄 Flow Sistem ExCellera**
 
-Onboarding Lapas
-      ↓
-Assessment Awal (AI)
-      ↓
-Personalisasi Course
-      ↓
-Course Offline
-      ↓
-Training Kerja 12 Bulan
-      ↓
-Sertifikat Siap Kerja
-      ↓
-Job Seeking / Job Matching
-
+flowchart TD
+    A[Onboarding Resmi dari Lapas] --> B[Assessment Awal berbasis AI]
+    B --> C[Personalisasi Course]
+    C --> D[Course Offline<br/>(NGO / Lembaga Pelatihan)]
+    D --> E[Training Kerja 12 Bulan<br/>+ Assessment Bulanan]
+    E --> F[Sertifikat "Siap Kerja"]
+    F --> G[Job Seeking / Job Matching]
 
 ⸻
 
@@ -151,7 +143,7 @@ ExCellera bukan sekadar aplikasi, melainkan sistem reintegrasi kerja berbasis st
 
 <div align="center">
   <h2>Meet the Team</h2>
-  <p>The people behind Excellera</p>
+  <p>The people behind ExCellera</p>
 </div>
 
 <br />
@@ -160,29 +152,58 @@ ExCellera bukan sekadar aplikasi, melainkan sistem reintegrasi kerja berbasis st
   <table>
     <tr>
       <td align="center">
-        <img src="https://via.placeholder.com/180" width="180" height="180" style="border-radius: 50%;" /><br />
-        <b>Member Name</b><br />
-        <i>Role</i>
+        <img 
+          src="https://drive.google.com/uc?export=view&id=17JzgCaF45gCTXnlIglXVKpq05sTQq5Vx"
+          width="180"
+          height="180"
+          style="border-radius:50%; object-fit:cover;"
+        /><br />
+        <b>Muhammad Aris Maulana</b><br />
+        <i>Project Manager</i>
       </td>
+
       <td align="center">
-        <img src="https://via.placeholder.com/180" width="180" height="180" style="border-radius: 50%;" /><br />
-        <b>Member Name</b><br />
-        <i>Role</i>
+        <img 
+          src="https://drive.google.com/uc?export=view&id=17JzgCaF45gCTXnlIglXVKpq05sTQq5Vx"
+          width="180"
+          height="180"
+          style="border-radius:50%; object-fit:cover;"
+        /><br />
+        <b>Nazla Azzahra Hermana</b><br />
+        <i>UI/UX Designer</i>
       </td>
+
       <td align="center">
-        <img src="https://via.placeholder.com/180" width="180" height="180" style="border-radius: 50%;" /><br />
-        <b>Member Name</b><br />
-        <i>Role</i>
+        <img 
+          src="https://drive.google.com/uc?export=view&id=1kbe9CbYZBaLMgQ-PSwiz179-lZVjKZ9v"
+          width="180"
+          height="180"
+          style="border-radius:50%; object-fit:cover;"
+        /><br />
+        <b>Ladya Kalascha</b><br />
+        <i>AI Engineer</i>
       </td>
+
       <td align="center">
-        <img src="https://via.placeholder.com/180" width="180" height="180" style="border-radius: 50%;" /><br />
-        <b>Member Name</b><br />
-        <i>Role</i>
+        <img 
+          src="https://drive.google.com/uc?export=view&id=1GLKutpoK_r_ib5QIeCNnWxECZqcdrPdH"
+          width="180"
+          height="180"
+          style="border-radius:50%; object-fit:cover;"
+        /><br />
+        <b>Gaza Al Ghozali Chansa</b><br />
+        <i>Fullstack Developer</i>
       </td>
+
       <td align="center">
-        <img src="https://via.placeholder.com/180" width="180" height="180" style="border-radius: 50%;" /><br />
-        <b>Member Name</b><br />
-        <i>Role</i>
+        <img 
+          src="https://drive.google.com/uc?export=view&id=17kTdS034qc7PyLRg2LNkuwjI190aEHeI"
+          width="180"
+          height="180"
+          style="border-radius:50%; object-fit:cover;"
+        /><br />
+        <b>Nicholas Gunawan</b><br />
+        <i>Fullstack Developer</i>
       </td>
     </tr>
   </table>
