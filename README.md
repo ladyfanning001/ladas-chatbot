@@ -40,33 +40,16 @@ Banyak mantan narapidana menghadapi hambatan serius untuk kembali bekerja karena
 Tanpa intervensi yang tepat, kondisi ini berpotensi mendorong mantan narapidana kembali ke lingkaran kriminal.
 
 ⸻
-
+https://drive.google.com/drive/folders/135n1p7rJL1D95SVfoDoCnZrl0re0Ogb7?usp=sharing
 **💡 Solusi Utama ExCellera**
 
-1. Assessment Awal & Personalisasi Jalur Kerja
-
-Setiap user menjalani assessment awal berbasis AI untuk memetakan minat, kesiapan belajar, pengalaman, dan kedisiplinan dasar. Hasil assessment digunakan untuk menentukan jalur kerja utama dan mempersonalisasi course yang relevan — tanpa opsi pemilihan manual oleh user.
-
-2. CELLA AI (RAG-based Learning Assistant)
-
-CELLA AI berperan sebagai asisten belajar dan kesiapan kerja yang:
-	•	Menjelaskan materi course dan training
-	•	Membantu refleksi progres dan kesiapan kerja
-	•	Membantu penyusunan CV berbasis sertifikat dan pengalaman training
-
-SELURUH jawaban CELLA bersumber dari knowledge base internal ExCellera, bukan internet bebas.
-
-3. Course Offline Terverifikasi
-
-User hanya dapat mengikuti course offline yang sesuai dengan jalur kerja hasil assessment. Course diselenggarakan oleh mitra Non-UMKM dan menghasilkan sertifikat course sebagai syarat masuk training.
-
-4. Training Kerja 12 Bulan
-
-Training dilakukan langsung di mitra (UMKM / Non-UMKM) dengan evaluasi berkala. Output utama dari tahap ini adalah Sertifikat “Siap Kerja” yang diterbitkan berdasarkan performa dan kedisiplinan.
-
-5. Job Seeking Berbasis Sertifikasi
-
-User hanya dapat melamar pekerjaan setelah memiliki sertifikat “Siap Kerja”. Proses job matching dilakukan berdasarkan bidang kerja, performa training, dan hasil evaluasi mitra, bukan riwayat kriminal.
+<br>
+<div align="center">
+    <div>
+        <img height="150px" src="[https://placehold.co/300x300?text=ExCellera](https://drive.google.com/drive/folders/135n1p7rJL1D95SVfoDoCnZrl0re0Ogb7?usp=sharing)" alt="ExCellera Logo"/>
+    </div> 
+</div>
+<br>
 
 ⸻
 **
