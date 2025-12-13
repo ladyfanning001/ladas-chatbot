@@ -1,5 +1,12 @@
+<div align="left">
+
+# ExCellera  
+### A Structured Reintegration Platform for Second Chances at Work
+
+</div>
+
 <br>
-<div align="center">
+<div align="left">
   <img
     src="https://drive.google.com/uc?export=view&id=12JM6t5lKPQNRP5mQeF08IKb_eFySzbg-"
     alt="ExCellera Banner"
@@ -22,21 +29,23 @@ Sebagai pendamping utama, ExCellera dilengkapi dengan CELLA AI, asisten berbasis
 
 
 Banyak mantan narapidana menghadapi hambatan serius untuk kembali bekerja karena:
-	•	Minimnya kepercayaan dari pemberi kerja akibat stigma
-	•	Ketidaksesuaian keterampilan dengan kebutuhan lapangan kerja
-	•	Tidak adanya sistem pendampingan kerja yang terstruktur
-	•	Proses rekrutmen yang tidak mempertimbangkan kesiapan kerja secara objektif
+<ul>
+  <li>Minimnya kepercayaan dari pemberi kerja akibat stigma</li>
+  <li>Ketidaksesuaian keterampilan dengan kebutuhan lapangan kerja</li>
+  <li>Tidak adanya sistem pendampingan kerja yang terstruktur</li>
+  <li>Proses rekrutmen yang tidak mempertimbangkan kesiapan kerja secara objektif</li>
+</ul>
 
 Tanpa intervensi yang tepat, kondisi ini berpotensi mendorong mantan narapidana kembali ke lingkaran kriminal.
 
 
-<div align="center">
+<div align="left">
   <h2>🎯 Solusi Utama <h2>
 </div>
 	  
 
 <br>
-<div align="center">
+<div align="left">
   <img 
     src="https://drive.google.com/uc?export=view&id=1rCeUhylm0YqWh5TbP27DzFS39Ul0TKwE"
     alt="ExCellera Banner"
@@ -45,27 +54,27 @@ Tanpa intervensi yang tepat, kondisi ini berpotensi mendorong mantan narapidana 
 </div>
 <br>
 
-<div align="center">
-  <h2> 🔄 Flow Sistem ExCellera <h2>
+<br>
+<div align="left">
+  <h2>🔄 Flow Sistem ExCellera</h2>
 </div>
-	  
+
+```mermaid
 flowchart TD
     A[Onboarding Resmi dari Lapas]
-    --> B[Assessment Awal berbasis AI]
+    --> B[Assessment Awal Berbasis AI]
+    --> C[Personalisasi Course]
+    --> D[Course Offline dari NGO / Lembaga Pelatihan]
+    --> E[Training Kerja 12 Bulan dan Assessment Bulanan]
+    --> F[Sertifikat Siap Kerja]
+    --> G[Job Seeking / Job Matching]
+```
 
-    B --> C[Personalisasi Course]
-
-    C --> D[Course Offline<br/>(NGO / Lembaga Pelatihan)]
-
-    D --> E[Training Kerja 12 Bulan<br/>+ Assessment Bulanan]
-
-    E --> F[Sertifikat "Siap Kerja"]
-
-    F --> G[Job Seeking / Job Matching]
-<div align="center">
+<br>
+<div align="left">
   <h2>🎯 Kontribusi terhadap SDGs <h2>
 </div>
-
+<br>
 
 SDG 8 – Pekerjaan Layak dan Pertumbuhan Ekonomi
 
@@ -78,123 +87,46 @@ Mengurangi ketimpangan sosial dengan membuka kesempatan kedua berbasis kemampuan
 SDG 16 – Perdamaian, Keadilan, dan Institusi yang Tangguh
 
 Menekan residivisme melalui sistem reintegrasi yang terstruktur dan berbasis data.
+<br>
+## 👨🏻‍💻 &nbsp;Technology Stack
+<br>
+<div align="left">
 
-<div align="center">
-  <h2>👨🏻‍💻 Technology Stack <h2>
-</div>
-
-
-<div align="center">
-
-
-<a href="https://nextjs.org/">
-<kbd><img src="https://placehold.co/60x60?text=Next.js" height="60" /></kbd>
-</a>
-
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<kbd><img src="https://placehold.co/60x60?text=JavaScript" height="60" /></kbd>
-</a>
-
-
-<a href="https://www.postgresql.org/">
-<kbd><img src="https://placehold.co/60x60?text=PostgreSQL" height="60" /></kbd>
-</a>
-
-
-<a href="https://github.com/pgvector/pgvector">
-<kbd><img src="https://placehold.co/60x60?text=pgvector" height="60" /></kbd>
-</a>
-
-
-<a href="https://ai.google.dev/">
-<kbd><img src="https://placehold.co/60x60?text=Gemini" height="60" /></kbd>
-</a>
-
+<img src="https://drive.google.com/uc?export=view&id=1W-WPQXOONOBVZ9yZti617tBvsDZRk9XV" height="100" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://drive.google.com/uc?export=view&id=1LTvSJYkvq-Tq5nTj04eqncRQp36s-8Zd" height="100" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://drive.google.com/uc?export=view&id=1WO0_6pHyXlLauXg7wPid6Hx47taQW9ia" height="100" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://drive.google.com/uc?export=view&id=1w8OwkvE6qFq_P-C1NstExrNsMSPWbskr" height="100" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://drive.google.com/uc?export=view&id=1jqMcSncQcZb5Dpbsrylthsn8DiqPaxaj" height="100" />
 
 </div>
-
-
-<div align="center">
-<h4>Next.js | JavaScript | PostgreSQL | pgvector | Gemini AI</h4>
+<br>
+<div align="left">
+<h4>PostgreSQL | Next.js | Gemini AI | JWT Authentication | Prisma ORM</h4>
 </div>
-
-
-
+<br>
 <div align="left">
   <h2>🧠 Arsitektur AI – CELLA (RAG) <h2>
 </div>
-
+<br>
 CELLA AI menggunakan pendekatan Retrieval-Augmented Generation (RAG) dengan alur:
-	1.	Query dari user
-	2.	Retrieval ke knowledge base internal (materi course, panduan training, kebijakan)
-	3.	Pencarian vektor menggunakan pgvector
-	4.	Generasi jawaban oleh Gemini
+- Query dari user
+- Retrieval ke knowledge base internal (materi course, panduan training, kebijakan)
+- Pencarian vektor menggunakan pgvector
+- Generasi jawaban oleh Gemini
 
 Pendekatan ini memastikan keamanan, konsistensi, dan auditabilitas setiap respons.
-
-
-Catatan Penting
-	•	User tidak dapat mendaftar mandiri (onboarding melalui lapas)
-	•	User tidak dapat melewati tahapan
-	•	AI tidak memiliki kewenangan mengambil keputusan kelulusan
-
 ExCellera bukan sekadar aplikasi, melainkan sistem reintegrasi kerja berbasis struktur, kepercayaan, dan kesempatan kedua.
 
-
-<div align="center">
+<br>
+<div align="left">
   <h2>Meet the Team</h2>
   <p>The people behind ExCellera</p>
 </div>
 
-<br />
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://drive.google.com/uc?export=view&id=17JzgCaF45gCTXnlIglXVKpq05sTQq5Vx"
-        width="160" height="160"
-        style="border-radius:50%; object-fit:cover;" /><br />
-      <b>Muhammad Aris Maulana</b><br />
-      <i>Project Manager</i>
-    </td>
-
-    <td align="center">
-      <img src="https://drive.google.com/uc?export=view&id=17JzgCaF45gCTXnlIglXVKpq05sTQq5Vx"
-        width="160" height="160"
-        style="border-radius:50%; object-fit:cover;" /><br />
-      <b>Nazla Azzahra Hermana</b><br />
-      <i>UI/UX Designer</i>
-    </td>
-
-    <td align="center">
-      <img src="https://drive.google.com/uc?export=view&id=1kbe9CbYZBaLMgQ-PSwiz179-lZVjKZ9v"
-        width="160" height="160"
-        style="border-radius:50%; object-fit:cover;" /><br />
-      <b>Ladya Kalascha</b><br />
-      <i>AI Engineer</i>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <img src="https://drive.google.com/uc?export=view&id=1GLKutpoK_r_ib5QIeCNnWxECZqcdrPdH"
-        width="160" height="160"
-        style="border-radius:50%; object-fit:cover;" /><br />
-      <b>Gaza Al Ghozali Chansa</b><br />
-      <i>Fullstack Developer</i>
-    </td>
-
-    <td align="center">
-      <img src="https://drive.google.com/uc?export=view&id=17kTdS034qc7PyLRg2LNkuwjI190aEHeI"
-        width="160" height="160"
-        style="border-radius:50%; object-fit:cover;" /><br />
-      <b>Nicholas Gunawan</b><br />
-      <i>Fullstack Developer</i>
-    </td>
-
-    <td align="center">
-      <!-- intentionally empty for symmetry -->
-    </td>
-  </tr>
-</table>
+<a href="#"><img width="144px" height="180px" src="https://drive.google.com/uc?export=view&id=17JzgCaF45gCTXnlIglXVKpq05sTQq5Vx" alt=""/></a> | <a href="#"><img width="144px" height="180px" src="https://drive.google.com/uc?export=view&id=1eOFVxZgBGwHtyDeV7OwQkiE4X2GUxEJE" alt=""/></a> | <a href="#"><img width="144px" height="180px" src="https://drive.google.com/uc?export=view&id=1kbe9CbYZBaLMgQ-PSwiz179-lZVjKZ9v" alt=""/></a> | <a href="#"><img width="144px" height="180px" src="https://drive.google.com/uc?export=view&id=1GLKutpoK_r_ib5QIeCNnWxECZqcdrPdH" alt=""/></a> | <a href="#"><img width="180px" height="180px" src="https://drive.google.com/uc?export=view&id=17kTdS034qc7PyLRg2LNkuwjI190aEHeI" alt=""/></a> |
+| --- | --- | --- | --- | --- |
+| <div align="left"><h3><b>Muhammad Aris Maulana</b></h3><p><i>Project Manager</i></p></div> | <div align="left"><h3><b>Nazla Azzahra Hermana</b></h3><p><i>UI/UX Designer</i></p></div> | <div align="left"><h3><b>Ladya Kalascha</b></h3><p><i>AI Engineer</i></p></div> | <div align="left"><h3><b>Gaza Al Ghozali Chansa</b></h3><p><i>Fullstack Developer</i></p></div> | <div align="left"><h3><b>Nicholas Gunawan</b></h3><p><i>Fullstack Developer</i></p></div> |
