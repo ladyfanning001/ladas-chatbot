@@ -8,8 +8,6 @@
 </div>
 <br>
 
-ExCellera: Structured Workforce Reintegration Platform
-
 ExCellera adalah platform digital terkontrol yang dirancang untuk membantu mantan narapidana kembali ke dunia kerja secara produktif, bermartabat, dan berkelanjutan. Platform ini hadir untuk menjawab tantangan utama pasca-bebas, seperti stigma sosial, keterbatasan akses pekerjaan, minimnya pendampingan pasca-pembebasan, serta tingginya risiko residivisme.
 
 Berbeda dari platform pencari kerja konvensional, ExCellera menerapkan alur reintegrasi berurutan (sequence-based reintegration). Setiap pengguna harus melalui tahapan yang jelas dan terukur, mulai dari assessment awal, personalisasi course, training kerja 12 bulan, hingga job seeking berbasis sertifikasi kesiapan kerja.
@@ -17,8 +15,6 @@ Berbeda dari platform pencari kerja konvensional, ExCellera menerapkan alur rein
 Sebagai pendamping utama, ExCellera dilengkapi dengan CELLA AI, asisten berbasis Retrieval-Augmented Generation (RAG) yang memberikan dukungan belajar dan kesiapan kerja berdasarkan knowledge base internal yang terkurasi dan terverifikasi, sehingga aman, adil, dan bebas stigma.
 
 ⸻
-
-**Problem Statement**
 
 <blockquote align='center'>
 <h3>
@@ -37,7 +33,11 @@ Tanpa intervensi yang tepat, kondisi ini berpotensi mendorong mantan narapidana 
 
 ⸻
 
-**💡 Solusi Utama ExCellera**
+
+<div align="left">
+  <h2>🎯 Solusi Utama <h2>
+</div>
+	  
 
 <br>
 <div align="center">
@@ -49,8 +49,11 @@ Tanpa intervensi yang tepat, kondisi ini berpotensi mendorong mantan narapidana 
 </div>
 <br>
 ⸻
-**🔄 Flow Sistem ExCellera**
 
+<div align="left">
+  <h2> 🔄 Flow Sistem ExCellera <h2>
+</div>
+	  
 flowchart TD
     A[Onboarding Resmi dari Lapas] --> B[Assessment Awal berbasis AI]
     B --> C[Personalisasi Course]
@@ -60,8 +63,10 @@ flowchart TD
     F --> G[Job Seeking / Job Matching]
 
 ⸻
+<div align="left">
+  <h2>🎯 Kontribusi terhadap SDGs <h2>
+</div>
 
-**🎯 Kontribusi terhadap SDGs**
 
 SDG 8 – Pekerjaan Layak dan Pertumbuhan Ekonomi
 
@@ -76,8 +81,10 @@ SDG 16 – Perdamaian, Keadilan, dan Institusi yang Tangguh
 Menekan residivisme melalui sistem reintegrasi yang terstruktur dan berbasis data.
 
 ⸻
+<div align="left">
+  <h2>👨🏻‍💻 Technology Stack <h2>
+</div>
 
-**👨🏻‍💻 Technology Stack**
 
 <div align="center">
 
@@ -117,8 +124,9 @@ Menekan residivisme melalui sistem reintegrasi yang terstruktur dan berbasis dat
 
 
 ⸻
-
-**🧠 Arsitektur AI – CELLA (RAG)**
+<div align="left">
+  <h2>🧠 Arsitektur AI – CELLA (RAG) <h2>
+</div>
 
 CELLA AI menggunakan pendekatan Retrieval-Augmented Generation (RAG) dengan alur:
 	1.	Query dari user
@@ -139,8 +147,6 @@ ExCellera bukan sekadar aplikasi, melainkan sistem reintegrasi kerja berbasis st
 
 ⸻
 
-**Team Introduction**
-
 <div align="center">
   <h2>Meet the Team</h2>
   <p>The people behind ExCellera</p>
@@ -150,12 +156,12 @@ ExCellera bukan sekadar aplikasi, melainkan sistem reintegrasi kerja berbasis st
 
 <div align="center">
   <table>
+    <!-- ROW 1 -->
     <tr>
       <td align="center">
         <img 
           src="https://drive.google.com/uc?export=view&id=17JzgCaF45gCTXnlIglXVKpq05sTQq5Vx"
-          width="180"
-          height="180"
+          width="160" height="160"
           style="border-radius:50%; object-fit:cover;"
         /><br />
         <b>Muhammad Aris Maulana</b><br />
@@ -165,8 +171,7 @@ ExCellera bukan sekadar aplikasi, melainkan sistem reintegrasi kerja berbasis st
       <td align="center">
         <img 
           src="https://drive.google.com/uc?export=view&id=17JzgCaF45gCTXnlIglXVKpq05sTQq5Vx"
-          width="180"
-          height="180"
+          width="160" height="160"
           style="border-radius:50%; object-fit:cover;"
         /><br />
         <b>Nazla Azzahra Hermana</b><br />
@@ -176,19 +181,20 @@ ExCellera bukan sekadar aplikasi, melainkan sistem reintegrasi kerja berbasis st
       <td align="center">
         <img 
           src="https://drive.google.com/uc?export=view&id=1kbe9CbYZBaLMgQ-PSwiz179-lZVjKZ9v"
-          width="180"
-          height="180"
+          width="160" height="160"
           style="border-radius:50%; object-fit:cover;"
         /><br />
         <b>Ladya Kalascha</b><br />
         <i>AI Engineer</i>
       </td>
+    </tr>
 
+    <!-- ROW 2 -->
+    <tr>
       <td align="center">
         <img 
           src="https://drive.google.com/uc?export=view&id=1GLKutpoK_r_ib5QIeCNnWxECZqcdrPdH"
-          width="180"
-          height="180"
+          width="160" height="160"
           style="border-radius:50%; object-fit:cover;"
         /><br />
         <b>Gaza Al Ghozali Chansa</b><br />
@@ -198,13 +204,15 @@ ExCellera bukan sekadar aplikasi, melainkan sistem reintegrasi kerja berbasis st
       <td align="center">
         <img 
           src="https://drive.google.com/uc?export=view&id=17kTdS034qc7PyLRg2LNkuwjI190aEHeI"
-          width="180"
-          height="180"
+          width="160" height="160"
           style="border-radius:50%; object-fit:cover;"
         /><br />
         <b>Nicholas Gunawan</b><br />
         <i>Fullstack Developer</i>
       </td>
+
+      <!-- spacer biar rata tengah -->
+      <td></td>
     </tr>
   </table>
 </div>
